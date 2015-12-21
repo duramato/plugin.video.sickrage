@@ -66,10 +66,10 @@ If you would like to show your appreciation for this project, and/or help suppor
 ## Related Links
 
 #### SickRage Website:  
-https://www.sickrage.tv
+http://sickrage.github.io
 
 #### SickRage Project on GitHub:  
-https://github.com/SiCKRAGETV/SickRage
+https://github.com/SickRage/SickRage
 
 -----
 
